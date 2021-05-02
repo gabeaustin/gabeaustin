@@ -14,8 +14,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FCC624?style=flat-square&logo=Javascript&logoColor=black" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="node.js" src="https://img.shields.io/badge/-node.js-DD0031?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="Ruby on Rails" src="
-  https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
