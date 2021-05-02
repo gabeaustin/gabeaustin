@@ -1,14 +1,11 @@
-# Gabe Austin
+# Gabe Austin - [www.myboygabe.com](http://www.myboygabe.com/)
 
-<h3>How to Contact Me</h3>
+<p>
+<h3>Ways To Contact Me</h3>
 
-:computer: &nbsp;&nbsp;<a href="http://www.myboygabe.com/" target="_blank" style="background-color:#FFAF00;color:#444;padding:3px;">www.myboygabe.com</a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-gabrielaustin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielaustin/)](https://www.linkedin.com/in/gabrielaustin/)
-
-[![Gmail Badge](https://img.shields.io/badge/-gabriel.austin2019@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.austin2019@gmail.com)](mailto:gabriel.austin2019@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.austin2019@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.austin2019@gmail.com)](mailto:gabriel.austin2019@gmail.com)  &nbsp;
 [![Github Badge](https://img.shields.io/badge/-gabeaustin-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabeaustin/gabeaustin)](https://github.com/gabeaustin/gabeaustin)
+</p>
 
 <h3>Technologies I Use</h3>
 <p>
@@ -25,7 +22,4 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 </p>
 
-<p>
-    <br />
-    :bowtie:&nbsp;&nbsp;A Gabe A. Production&nbsp;&nbsp;:bowtie:
-</p>
+
