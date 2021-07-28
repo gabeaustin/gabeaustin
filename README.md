@@ -4,7 +4,7 @@
 <h3>Ways To Contact Me</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.austin2019@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.austin2019@gmail.com)](mailto:gabriel.austin2019@gmail.com)  &nbsp;
-[![Github Badge](https://img.shields.io/badge/-gabeaustin-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabeaustin)](https://github.com/gabeaustin/gabeaustin)
+[![Github Badge](https://img.shields.io/badge/-gabeaustin-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabeaustin)](https://github.com/gabeaustin)
 </p>
 
 <h3>Technologies I Use</h3>
