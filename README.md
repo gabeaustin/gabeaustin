@@ -1,4 +1,4 @@
-# Gabe Austin - [www.myboygabe.com](http://www.myboygabe.com/)
+# Gabe Austin
 
 <p>
 <h3>Ways To Contact Me</h3>
