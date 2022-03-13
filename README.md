@@ -1,4 +1,4 @@
-# Gabe Austin
+# Gabriel "Gabe" Austin
 
 <p>
 <h3>Ways To Contact Me</h3>
