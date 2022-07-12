@@ -1,10 +1,16 @@
 # Gabriel "Gabe" Austin
 
 <p>
+<h3>Portfolio</h3>
+<a href="https://gabeaustin.github.io/portfolio-spa" target="_blank">Gabe's Portfolio</a>
+</p>
+
+<p>
 <h3>Ways To Contact Me</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.austin2019@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.austin2019@gmail.com)](mailto:gabriel.austin2019@gmail.com)  &nbsp;
 [![Github Badge](https://img.shields.io/badge/-gabeaustin-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabeaustin)](https://github.com/gabeaustin)
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01cb6e54e79a2a56b2)
 </p>
 
 <h3>Technologies I Use</h3>
