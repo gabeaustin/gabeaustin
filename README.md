@@ -2,7 +2,7 @@
 
 <p>
 <h3>Portfolio</h3>
-<a href="https://gabeaustin.github.io/portfolio-spa" target="_blank">Gabe's Portfolio</a>
+<a href="https://www.codebygabe.com" target="_blank">Gabe's Portfolio</a>
 </p>
 
 <p>
